@@ -1,0 +1,4 @@
+com\longrise\springcloud\service\DeptClientService.class
+com\longrise\springcloud\entities\Dept.class
+com\longrise\springcloud\service\DeptClientServiceFallbackFactory.class
+com\longrise\springcloud\service\DeptClientServiceFallbackFactory$1.class
